@@ -1,8 +1,12 @@
 #summary JavaScript implementation of GraphViz type of engine
 
-= My findings =
+== Top ==
 
-http://cytoscape.github.com/cytoscape.js/ -- A JavaScript graph library for analysis and visualisation 
+http://cytoscape.github.com/cytoscape.js/
+
+A JavaScript graph library for analysis and visualisation 
+
+https://raw.github.com/cytoscape/cytoscape.js/master/documentation/img/demo.png
 
 == Simple Graphviz for the web, compiled with Emscripten: ==
 
@@ -33,5 +37,3 @@ http://www.flotcharts.org/
 https://github.com/prefuse/Flare  -- Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques. 
 
 http://www.jqplot.com/ -- jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts
-
-
