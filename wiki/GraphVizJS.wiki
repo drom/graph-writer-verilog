@@ -91,3 +91,15 @@ jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jq
 http://www.infovis-wiki.net
 
 InfoVis:Wiki is hosted by Institute of Softwaretechnology and Interactive Systems at Vienna University of Technology.
+
+
+
+http://circos.ca/
+
+Circos is a software package for visualizing data and information. It visualizes data in a circular layout — this makes Circos ideal for exploring relationships between objects or positions. There are other reasons why a circular layout is advantageous, not the least being the fact that it is attractive.
+
+Circos is written in Perl, can be deployed on any operating system for which Perl is available (e.g. Windows, Mac OS X, Linux and other UNIX flavours) and produces bitmap (PNG) and vector (SVG) images using plain text configuration and input files.
+
+http://circos.ca/img/circos-sample-panel.png
+
+
