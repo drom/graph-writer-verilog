@@ -23,6 +23,17 @@ http://sigmajs.org/thumbnails/gexf_example.png
 
 
 
+
+
+http://d3js.org/
+
+D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+
+http://d3js.org/ex/nations.png
+
+
+
+
 https://github.com/samizdatco/arbor
 
 a graph visualization library using web workers and jQuery
@@ -65,8 +76,6 @@ https://github.com/jackrusher/jssvggraph
 The simplest possible force directed graph layout algorithm implemented as a Javascript library that uses SVG objects.  It is in no way meant to be production library, just a demonstration of force-directed layout as an adjunct to a conversation on that topic.
 
 = Other nice visualizations =
-
-https://github.com/mbostock/d3
 
 http://www.flotcharts.org/
 
