@@ -4,7 +4,7 @@
 
 http://cytoscape.github.com/cytoscape.js/
 
-A JavaScript graph library for analysis and visualisation 
+A JavaScript graph library for analysis and visualisation. Canvas, 
 
 https://raw.github.com/cytoscape/cytoscape.js/master/documentation/img/demo.png
 
