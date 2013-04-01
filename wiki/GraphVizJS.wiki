@@ -1,0 +1,22 @@
+#summary JavaScript implementation of GraphViz type of engine
+
+= My findings =
+
+== Simple Graphviz for the web, compiled with Emscripten: ==
+
+https://github.com/mdaines/viz.js
+
+https://github.com/bpartridge/graphviz.js
+
+
+
+== Requires Server for dot --> xdot ==
+
+https://code.google.com/p/canviz/
+
+
+
+
+= Other nice visualizations =
+
+https://github.com/mbostock/d3
