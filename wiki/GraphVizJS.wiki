@@ -103,3 +103,16 @@ Circos is written in Perl, can be deployed on any operating system for which Per
 http://circos.ca/img/circos-sample-panel.png
 
 
+http://mkweb.bcgsc.ca/
+
+Martin Krzywinski -- Home Page
+
+http://mkweb.bcgsc.ca/images/martin_krzywinski.jpg
+http://mkweb.bcgsc.ca/gfx/quick-circos.png
+http://mkweb.bcgsc.ca/gfx/quick-hiveplot.png
+http://mkweb.bcgsc.ca/gfx/quick-genomeinfo2010.png
+http://mkweb.bcgsc.ca/gfx/quick-genomepath.png
+http://mkweb.bcgsc.ca/gfx/quick-pk.png
+http://mkweb.bcgsc.ca/gfx/quick-tuple.png
+http://mkweb.bcgsc.ca/gfx/quick-tableviewer.png
+http://mkweb.bcgsc.ca/gfx/quick-bacarray.png
