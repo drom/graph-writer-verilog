@@ -86,3 +86,8 @@ Flare is an ActionScript library for creating visualizations that run in the Ado
 http://www.jqplot.com/
 
 jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts
+
+
+http://www.infovis-wiki.net
+
+InfoVis:Wiki is hosted by Institute of Softwaretechnology and Interactive Systems at Vienna University of Technology.
