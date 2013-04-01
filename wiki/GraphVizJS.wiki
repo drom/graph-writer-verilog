@@ -8,6 +8,7 @@ A JavaScript graph library for analysis and visualisation. Canvas,
 
 https://raw.github.com/cytoscape/cytoscape.js/master/documentation/img/demo.png
 
+
 http://sigmajs.org
 
 sigma.js is an open-source lightweight JavaScript library to draw graphs, using the HTML canvas element. It has been especially designed to:
@@ -15,6 +16,14 @@ sigma.js is an open-source lightweight JavaScript library to draw graphs, using 
  * Display dynamically graphs that are generated on the fly
 
 http://sigmajs.org/thumbnails/gexf_example.png
+
+
+https://github.com/samizdatco/arbor
+
+a graph visualization library using web workers and jQuery
+
+force-directed layout algorithm
+
 
 == Graphviz compiled with Emscripten ==
 
