@@ -8,22 +8,35 @@ A JavaScript graph library for analysis and visualisation
 
 https://raw.github.com/cytoscape/cytoscape.js/master/documentation/img/demo.png
 
+http://sigmajs.org
+
+sigma.js is an open-source lightweight JavaScript library to draw graphs, using the HTML canvas element. It has been especially designed to:
+ * Display interactively static graphs exported from a graph visualization software - like Gephi
+ * Display dynamically graphs that are generated on the fly
+
+http://sigmajs.org/thumbnails/gexf_example.png
+
 == Graphviz compiled with Emscripten ==
 
 https://github.com/mdaines/viz.js
 
 https://github.com/bpartridge/graphviz.js
 
-== Requires Server for dot --> xdot ==
+== GraphViz on server for dot --> xdot ==
 
 https://code.google.com/p/canviz/
 
-https://code.google.com/p/jsdot/ -- javascript application, fully client based, to visualise, create and modify graphs.
+== Manual Layout ==
 
+https://code.google.com/p/jsdot/
 
-http://sourceforge.net/projects/js-graph-it/ -- js-graph-it is a JavaScript library that allows to represent graphs in html pages by linking blocks with connectors. Common html elements become blocks and connectors by using particular css classes, in a declarative fashion. Drag and drop is provided
+javascript application, fully client based, to visualise, create and modify graphs.
 
-== Simple ==
+http://sourceforge.net/projects/js-graph-it/
+
+js-graph-it is a JavaScript library that allows to represent graphs in html pages by linking blocks with connectors. Common html elements become blocks and connectors by using particular css classes, in a declarative fashion. Drag and drop is provided
+
+== Simple Layout ==
 
 https://github.com/jackrusher/jssvggraph
 
@@ -35,6 +48,10 @@ https://github.com/mbostock/d3
 
 http://www.flotcharts.org/
 
-https://github.com/prefuse/Flare  -- Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques. 
+https://github.com/prefuse/Flare
 
-http://www.jqplot.com/ -- jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts
+Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques. 
+
+http://www.jqplot.com/
+
+jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts
