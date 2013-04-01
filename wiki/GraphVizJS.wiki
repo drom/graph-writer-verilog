@@ -8,15 +8,11 @@ A JavaScript graph library for analysis and visualisation
 
 https://raw.github.com/cytoscape/cytoscape.js/master/documentation/img/demo.png
 
-== Simple Graphviz for the web, compiled with Emscripten: ==
+== Graphviz compiled with Emscripten ==
 
 https://github.com/mdaines/viz.js
 
 https://github.com/bpartridge/graphviz.js
-
-https://github.com/jackrusher/jssvggraph -- The simplest possible force directed graph layout algorithm implemented as a Javascript library that uses SVG objects.  It is in no way meant to be production library, just a demonstration of force-directed layout as an adjunct to a conversation on that topic.
-
-
 
 == Requires Server for dot --> xdot ==
 
@@ -27,6 +23,11 @@ https://code.google.com/p/jsdot/ -- javascript application, fully client based, 
 
 http://sourceforge.net/projects/js-graph-it/ -- js-graph-it is a JavaScript library that allows to represent graphs in html pages by linking blocks with connectors. Common html elements become blocks and connectors by using particular css classes, in a declarative fashion. Drag and drop is provided
 
+== Simple ==
+
+https://github.com/jackrusher/jssvggraph
+
+The simplest possible force directed graph layout algorithm implemented as a Javascript library that uses SVG objects.  It is in no way meant to be production library, just a demonstration of force-directed layout as an adjunct to a conversation on that topic.
 
 = Other nice visualizations =
 
