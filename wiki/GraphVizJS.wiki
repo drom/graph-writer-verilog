@@ -2,11 +2,15 @@
 
 == Top ==
 
+
+
 http://cytoscape.github.com/cytoscape.js/
 
 A JavaScript graph library for analysis and visualisation. Canvas, 
 
 https://raw.github.com/cytoscape/cytoscape.js/master/documentation/img/demo.png
+
+
 
 
 http://sigmajs.org
@@ -18,11 +22,20 @@ sigma.js is an open-source lightweight JavaScript library to draw graphs, using 
 http://sigmajs.org/thumbnails/gexf_example.png
 
 
+
 https://github.com/samizdatco/arbor
 
 a graph visualization library using web workers and jQuery
 
 force-directed layout algorithm
+
+
+
+http://getspringy.com/
+
+A force directed graph layout algorithm in JavaScript.
+
+http://getspringy.com/pinus_serotina.png
 
 
 == Graphviz compiled with Emscripten ==
