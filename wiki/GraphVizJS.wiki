@@ -2,11 +2,15 @@
 
 = My findings =
 
+http://cytoscape.github.com/cytoscape.js/ -- A JavaScript graph library for analysis and visualisation 
+
 == Simple Graphviz for the web, compiled with Emscripten: ==
 
 https://github.com/mdaines/viz.js
 
 https://github.com/bpartridge/graphviz.js
+
+https://github.com/jackrusher/jssvggraph -- The simplest possible force directed graph layout algorithm implemented as a Javascript library that uses SVG objects.  It is in no way meant to be production library, just a demonstration of force-directed layout as an adjunct to a conversation on that topic.
 
 
 
@@ -14,9 +18,20 @@ https://github.com/bpartridge/graphviz.js
 
 https://code.google.com/p/canviz/
 
+https://code.google.com/p/jsdot/ -- javascript application, fully client based, to visualise, create and modify graphs.
 
+
+http://sourceforge.net/projects/js-graph-it/ -- js-graph-it is a JavaScript library that allows to represent graphs in html pages by linking blocks with connectors. Common html elements become blocks and connectors by using particular css classes, in a declarative fashion. Drag and drop is provided
 
 
 = Other nice visualizations =
 
 https://github.com/mbostock/d3
+
+http://www.flotcharts.org/
+
+https://github.com/prefuse/Flare  -- Flare is an ActionScript library for creating visualizations that run in the Adobe Flash Player. From basic charts and graphs to complex interactive graphics, the toolkit supports data management, visual encoding, animation, and interaction techniques. 
+
+http://www.jqplot.com/ -- jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts
+
+
